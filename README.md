@@ -1,8 +1,6 @@
 # Stars Bot
 This is a discord bot in the python language that uses NASA's API's, of which you can browse using [api.nasa.gov](https://api.nasa.gov/).
 
-![stars-bot](resources/stars.png)
-
 The API's and libraries used in this project include but are not limited to:
 1. Discord.py
 2. APOD API
