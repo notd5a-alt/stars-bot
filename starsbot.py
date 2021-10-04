@@ -2,14 +2,9 @@ import os
 
 import discord 
 from discord.ext import commands
-from dotenv import load_dotenv
 
-import datetime
-import time
 import json 
 import requests
-
-load_dotenv()
 
 DISC_TOKEN = os.environ.get('discord')
 NASA_API_KEY = os.environ.get('nasa')
